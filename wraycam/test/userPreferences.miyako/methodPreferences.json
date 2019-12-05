@@ -172,9 +172,9 @@
 	},
 	"Sources/Methods/TEST.4dm": {
 		"startSelection": 7,
-		"endSelection": 7,
+		"endSelection": 0,
 		"firstSelectedLine": 10,
-		"lastSelectedLine": 10,
+		"lastSelectedLine": 6,
 		"folding": [],
 		"bookmarks": [],
 		"stamp": "2019-12-05T04:23:43.000Z"
@@ -189,12 +189,93 @@
 		"stamp": "2019-07-07T00:13:49.000Z"
 	},
 	"Sources/Methods/wraycam_event_m.4dm": {
-		"startSelection": 5,
-		"endSelection": 5,
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 19,
+		"lastSelectedLine": 19,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-05T06:42:42.288Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/wraycam Get version .4dm": {
+		"startSelection": 45,
+		"endSelection": 45,
 		"firstSelectedLine": 0,
 		"lastSelectedLine": 0,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2019-12-04T21:46:24.185Z"
+		"stamp": "2019-12-05T06:23:39.845Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/wraycam Open.4dm": {
+		"startSelection": 22,
+		"endSelection": 22,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-05T06:45:27.196Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/wraycam Close.4dm": {
+		"startSelection": 29,
+		"endSelection": 15,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-05T06:42:48.646Z"
+	},
+	"Sources/Forms/TEST/method.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 7,
+		"lastSelectedLine": 7,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-05T06:32:44.833Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/wraycam Start.4dm": {
+		"startSelection": 38,
+		"endSelection": 38,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-05T06:41:59.700Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/wraycam Pause1.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-05T06:33:23.748Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/wraycam Stop.4dm": {
+		"startSelection": 37,
+		"endSelection": 37,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-05T06:42:48.653Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/wraycam Pause.4dm": {
+		"startSelection": 38,
+		"endSelection": 38,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-05T06:41:53.097Z"
+	},
+	"Sources/Methods/wraycam_event_f.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-05T06:45:07.891Z"
 	}
 }

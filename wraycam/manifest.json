@@ -14,7 +14,7 @@
         },
         {
             "theme": "wraycam",
-            "syntax": "wraycam Open(&T;&T;&J):J",
+            "syntax": "wraycam Open(&T;&T;&T):J",
             "threadSafe": true
         },
         {

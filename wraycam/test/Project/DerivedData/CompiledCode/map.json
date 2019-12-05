@@ -1,0 +1,77 @@
+﻿{
+	"map": [
+		{
+			"id": 2147483647,
+			"path": "Sources/Methods/generate_file_from_template.4dm"
+		},
+		{
+			"id": 2147483646,
+			"path": "Sources/Methods/generate_project_infoplist.4dm"
+		},
+		{
+			"id": 2147483645,
+			"path": "Sources/Methods/generate_constants_xlf.4dm"
+		},
+		{
+			"id": 2147483644,
+			"path": "Sources/Methods/wraycam_event_f.4dm"
+		},
+		{
+			"id": 2147483643,
+			"path": "Sources/Methods/generate_project_xcode.4dm"
+		},
+		{
+			"id": 2147483642,
+			"path": "Sources/Methods/TEST.4dm"
+		},
+		{
+			"id": 2147483641,
+			"path": "Sources/Methods/wraycam_event_m.4dm"
+		},
+		{
+			"id": 2147483640,
+			"path": "Sources/Methods/generate_project.4dm"
+		},
+		{
+			"id": 2147483639,
+			"path": "Sources/Methods/generate_project_vs.4dm"
+		},
+		{
+			"id": 2147483638,
+			"path": "Sources/Methods/generate_project_plugin_stub.4dm"
+		},
+		{
+			"id": 2147483637,
+			"path": "Sources/Methods/generate_project_source.4dm"
+		},
+		{
+			"id": 2147483636,
+			"path": "Sources/Forms/TEST/ObjectMethods/wraycam Get version .4dm"
+		},
+		{
+			"id": 2147483635,
+			"path": "Sources/Forms/TEST/method.4dm"
+		},
+		{
+			"id": 2147483634,
+			"path": "Sources/Forms/TEST/ObjectMethods/wraycam Open.4dm"
+		},
+		{
+			"id": 2147483633,
+			"path": "Sources/Forms/TEST/ObjectMethods/wraycam Close.4dm"
+		},
+		{
+			"id": 2147483632,
+			"path": "Sources/Forms/TEST/ObjectMethods/wraycam Start.4dm"
+		},
+		{
+			"id": 2147483631,
+			"path": "Sources/Forms/TEST/ObjectMethods/wraycam Pause.4dm"
+		},
+		{
+			"id": 2147483630,
+			"path": "Sources/Forms/TEST/ObjectMethods/wraycam Stop.4dm"
+		}
+	],
+	"arch64": true
+}
