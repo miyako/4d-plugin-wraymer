@@ -1,0 +1,106 @@
+{
+    "name": "wraycam",
+    "id": 20000,
+    "commands": [
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Get version:T",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Get devices:C",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Open(&T;&T;&J):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Close(&T)",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Get info(&T):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Get property(&T):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Set property(&T;&J):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Get option(&T):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Set option(&T;&J):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Start(&T;&T;&T):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Stop(&T):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Pause(&T;&L):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Snap(&T;&L;&L):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Trigger(&T;&L):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Flush(&T):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Get image(&T;&L;&J):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Correct flat field(&T):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Correct dark field(&T):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Auto level range(&T):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "wraycam",
+            "syntax": "wraycam Set LED state(&T;&J):J",
+            "threadSafe": true
+        }
+    ]
+}

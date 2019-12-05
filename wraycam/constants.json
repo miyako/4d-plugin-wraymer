@@ -1,0 +1,69 @@
+{
+	"themes": [
+		{
+			"theme": "wraycam events",
+			"constants": [
+                {
+                    "name": "WRAYCAM_EVENT_EXPOSURE",
+                    "value": "1:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_TEMPTINT",
+                    "value": "2:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_IMAGE",
+                    "value": "4:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_STILLIMAGE",
+                    "value": "5:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_WBGAIN",
+                    "value": "6:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_TRIGGERFAIL",
+                    "value": "7:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_BLACK",
+                    "value": "8:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_FFC",
+                    "value": "9:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_DFC",
+                    "value": "10:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_ERROR",
+                    "value": "128:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_DISCONNECTED",
+                    "value": "129:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_TIMEOUT",
+                    "value": "130:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_AFFEEDBACK",
+                    "value": "131:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_AFPOSITION",
+                    "value": "132:L"
+                },
+                {
+                    "name": "WRAYCAM_EVENT_FACTORY",
+                    "value": "32769:L"
+                }
+            ]
+        }
+	]
+}
